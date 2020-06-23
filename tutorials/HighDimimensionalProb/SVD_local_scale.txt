@@ -1,0 +1,1 @@
+1000 points on 9 dimensional sphere embedded in 100 dimensions with gaussian noise. Compute eigenvales as r changes from 0.1 to 2.2
